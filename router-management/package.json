@@ -1,0 +1,19 @@
+{
+  "name": "router-management",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "express": "^4.14.1",
+    "mongoose": "^4.8.1",
+    "pug": "^2.0.0-beta11",
+    "request": "^2.79.0"
+  }
+}

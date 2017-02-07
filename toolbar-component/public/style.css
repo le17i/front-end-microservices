@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.toolbar {
+    background-color: #CD0000;
+    color: #FFF;
+    height: 64px;
+    width: 100%;
+}

@@ -1,0 +1,22 @@
+{
+  "name": "toolbar-component",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.5.1",
+    "express": "^4.14.1",
+    "pug": "^2.0.0-beta10"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-less": "^1.4.0",
+    "grunt-contrib-uglify": "^2.0.0"
+  }
+}
